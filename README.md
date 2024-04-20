@@ -16,7 +16,7 @@ To build and run the project successfully, follow these steps:
 1. Clone this repository to your local machine.
 2. Provide your OpenAI API key string in the `APIkey.swift` file.
 3. Open the project in Xcode.
-4. Run the project on a simulator or a physical device.
+4. Run the project and the app is displayed in Xcode simulator.
 
 ## Usage
 
